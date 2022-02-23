@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Centro de Estágio e Desenvolvimento de Carreiras"
-  avatar           : "assets/images/logo80x80.png"
+  avatar           : "logo80x80.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Rua Almeida Cunha, num 109, Bloco G, sala 107"
   employer         :
